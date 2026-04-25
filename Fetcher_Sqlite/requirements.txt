@@ -1,0 +1,7 @@
+# 基金数据查看器 v2.0 - 依赖列表
+# 安装: pip install -r requirements.txt
+
+akshare>=1.14.0
+pandas>=1.5.0
+matplotlib>=3.7.0
+numpy>=1.24.0
